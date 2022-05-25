@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Chris -- I'm a backend API developer and college graduate.
+
+### My skills 💪
+[![My Skills](https://skillicons.dev/icons?i=git,github,rails,ruby,linux,vscode)](https://skillicons.dev)
+
+### I'm currently learning 🌱
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
 <!--
 **CBrashear/CBrashear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
